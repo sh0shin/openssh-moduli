@@ -1,7 +1,7 @@
 [//]: # ( vim: set ft=markdown : )
 # OpenSSH Moduli
 
-Collection of "safe" moduli for SSH hardening.
+Collection of "safe" moduli(5) for SSH hardening.
 
 ## Generate
 ```bash
